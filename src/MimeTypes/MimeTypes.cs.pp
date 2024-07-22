@@ -414,6 +414,9 @@ namespace $rootnamespace$
                 { "ics", "text/calendar" },
                 { "ief", "image/ief" },
                 { "ifb", "text/calendar" },
+                { "ifc", "application/x-step" },
+                { "ifcxml, "application/xml" }
+                { "ifczip", "application/zip" },
                 { "ifm", "application/vnd.shana.informed.formdata" },
                 { "iges", "model/iges" },
                 { "igl", "application/vnd.igloader" },
